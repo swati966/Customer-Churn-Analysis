@@ -1,7 +1,7 @@
 # Customer-Churn-Analysis
 
 
-![Cover](Screenshot%202025-09-18%20123849.png)
+![Cover](<img width="1029" height="649" alt="Screenshot 2025-09-18 123849" src="https://github.com/user-attachments/assets/35642bd1-60f0-4ae8-b18f-18882c9551f6" />)
 
 ##  Project Overview
 This project presents a **Churn Analysis Summary Dashboard** built to analyze customer churn trends and insights.  
